@@ -1,0 +1,15 @@
+
+StudentRiskFrontend/node_modules/
+StudentRiskFrontend/dist/
+StudentRiskBackend/target/
+.env
+.env.*
+!.env.example
+*.log
+.vscode/
+.idea/
+StudentRiskBackend/.git/
+StudentRiskFrontend/.git/
+StudentRiskBackend/target/
+StudentRiskFrontend/node_modules/
+StudentRiskFrontend/dist/
